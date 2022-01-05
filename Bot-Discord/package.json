@@ -1,0 +1,15 @@
+{
+  "name": "Dungeons-Of-Empire",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "repository": "https://github.com/ppaalo/Dungeons-Of-Empire.git",
+  "author": "ppaalo <ppaalo.henriquecosta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.5"
+  }
+}
